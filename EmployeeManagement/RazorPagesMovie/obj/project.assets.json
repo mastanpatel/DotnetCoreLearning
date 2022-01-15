@@ -8823,19 +8823,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Electrobot\\.nuget\\packages\\": {}
+    "C:\\Users\\mmast\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\dotnetCore\\mastanpatel\\DotnetCoreLearning\\EmployeeManagement\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "E:\\Projects\\EmployeeManagement\\EmployeeManagement\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "E:\\Projects\\dotnetCore\\mastanpatel\\DotnetCoreLearning\\EmployeeManagement\\RazorPagesMovie\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\Electrobot\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\dotnetCore\\mastanpatel\\DotnetCoreLearning\\EmployeeManagement\\RazorPagesMovie\\obj\\",
+      "projectPath": "E:\\Projects\\EmployeeManagement\\EmployeeManagement\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "packagesPath": "C:\\Users\\mmast\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\EmployeeManagement\\EmployeeManagement\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Electrobot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mmast\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8906,7 +8911,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
