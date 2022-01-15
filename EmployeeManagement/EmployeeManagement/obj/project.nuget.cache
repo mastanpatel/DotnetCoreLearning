@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gg3uX4KjeVCvEnVpH1tlle5+H97OJjs2pVwBFBdrqjen2VIlsnMU3qX4Kof7mPVjPAJD2ibjVbHWRzEZiTOikw==",
+  "dgSpecHash": "9w6ym10fSzgdi0RJ99Xf+ggqS4T8GGUZGqk+sV3FEuLMMv7PxbJG6ybKZ2SElHexD/RDNgCha8D98LW8fESuzw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\dotnetCore\\mastanpatel\\DotnetCoreLearning\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "E:\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
