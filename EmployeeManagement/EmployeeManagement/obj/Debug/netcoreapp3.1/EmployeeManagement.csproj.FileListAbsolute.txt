@@ -26,7 +26,6 @@ E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\n
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
-E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.AssemblyReference.cache
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CoreCompileInputs.cache
@@ -36,5 +35,4 @@ E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\n
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
-E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.StaticWebAssets.xml
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig

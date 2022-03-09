@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxLsM8og101iXd63LQkcdgKrPsvgR7aqlGp/CXMQ0b7QDaK5rHhhjE3gEDD2E0FfS+LSKiepbgv2v14vxAGE5A==",
+  "dgSpecHash": "X3N/ewGjdk+lSRZkekNTgULeEdPCRIqLScYBFB07gogSaEvs6z5RGuPSc87GWBh/qOfsGAX5bgqdwku81Ax69A==",
   "success": true,
   "projectFilePath": "E:\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mmast\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\mmast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
