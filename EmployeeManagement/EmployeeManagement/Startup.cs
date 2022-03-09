@@ -37,14 +37,14 @@ namespace EmployeeManagement
                     await context.Response.WriteAsync("Hello world from first middlewere");
                 });
             });
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapGet("/", async context =>
-                {
-                    //await context.Response.WriteAsync(System.Diagnostics.Process.GetCurrentProcess().ProcessName);
-                    await context.Response.WriteAsync("Hello world from second middlewere");
-                });
-            });
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapGet("/", async context =>
+            //    {
+            //        //await context.Response.WriteAsync(System.Diagnostics.Process.GetCurrentProcess().ProcessName);
+            //        await context.Response.WriteAsync("Hello world from second middlewere");
+            //    });
+            //});
 
         }
     }

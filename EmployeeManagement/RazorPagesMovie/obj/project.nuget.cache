@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r+0L2d9gDnAjlzLSaDYNv3O1fsrwRkR0OyEV/HPsVJy2S8laNlTqtsi05+5g/ot1nj6pfSrECZWTUBWTGdgKzg==",
+  "dgSpecHash": "b0C/gZvRjJ2BYxVi6pbH9kk2YCEC8Ir6XpXqw93m9kDOQoKx2NAR/LvUPKl2QT5obIiKJNRfPISysYri7ocupw==",
   "success": true,
   "projectFilePath": "E:\\Projects\\EmployeeManagement\\EmployeeManagement\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
@@ -172,7 +172,11 @@
     "C:\\Users\\mmast\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\mmast\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mmast\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\mmast\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\mmast\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\mmast\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\mmast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mmast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mmast\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
