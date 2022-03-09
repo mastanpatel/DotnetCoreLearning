@@ -32,9 +32,9 @@ E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\n
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CoreCompileInputs.cache
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
-E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.xml
-E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeManagement.styles.css
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
 E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
+E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.StaticWebAssets.xml
+E:\Projects\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
